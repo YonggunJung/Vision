@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\PictuerFrame\bin\Debug\PictuerFrame.exe.config
+C:\Users\admin\source\repos\PictuerFrame\bin\Debug\PictuerFrame.exe
+C:\Users\admin\source\repos\PictuerFrame\bin\Debug\PictuerFrame.pdb
+C:\Users\admin\source\repos\PictuerFrame\obj\Debug\PictuerFrame.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PictuerFrame\obj\Debug\PictuerFrame.Form1.resources
+C:\Users\admin\source\repos\PictuerFrame\obj\Debug\PictuerFrame.Properties.Resources.resources
+C:\Users\admin\source\repos\PictuerFrame\obj\Debug\PictuerFrame.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PictuerFrame\obj\Debug\PictuerFrame.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PictuerFrame\obj\Debug\PictuerFrame.exe
+C:\Users\admin\source\repos\PictuerFrame\obj\Debug\PictuerFrame.pdb

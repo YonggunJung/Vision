@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Machine Vision Dashboard\bin\Debug\Machine Vision Dashboard.exe.config
+C:\Users\admin\source\repos\Machine Vision Dashboard\bin\Debug\Machine Vision Dashboard.exe
+C:\Users\admin\source\repos\Machine Vision Dashboard\bin\Debug\Machine Vision Dashboard.pdb
+C:\Users\admin\source\repos\Machine Vision Dashboard\bin\Debug\Cognex.InSight.Controls.Display.dll
+C:\Users\admin\source\repos\Machine Vision Dashboard\bin\Debug\Cognex.InSight.dll
+C:\Users\admin\source\repos\Machine Vision Dashboard\bin\Debug\Cognex.InSight.xml
+C:\Users\admin\source\repos\Machine Vision Dashboard\bin\Debug\Cognex.InSight.Controls.Display.xml
+C:\Users\admin\source\repos\Machine Vision Dashboard\obj\Debug\Machine Vision Dashboard.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Machine Vision Dashboard\obj\Debug\Machine_Vision_Dashboard.Form1.resources
+C:\Users\admin\source\repos\Machine Vision Dashboard\obj\Debug\Machine_Vision_Dashboard.Properties.Resources.resources
+C:\Users\admin\source\repos\Machine Vision Dashboard\obj\Debug\Machine Vision Dashboard.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Machine Vision Dashboard\obj\Debug\Machine Vision Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Machine Vision Dashboard\obj\Debug\Machine .845D46EB.Up2Date
+C:\Users\admin\source\repos\Machine Vision Dashboard\obj\Debug\Machine Vision Dashboard.exe
+C:\Users\admin\source\repos\Machine Vision Dashboard\obj\Debug\Machine Vision Dashboard.pdb
